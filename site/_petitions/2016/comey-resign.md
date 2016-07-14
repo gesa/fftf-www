@@ -16,9 +16,6 @@ twittertext: >-
   The Director of the FBI is losing it. Tell him to resign:
   https://www.fightforthefuture.org/2016/comey-resign/
 social_title: The director of the FBI is losing it
-social_description: >-
-  The Director of the FBI is losing it. Tell him to resign:
-  https://www.fightforthefuture.org/2016/comey-resign/ foo:bar
 share_image_dims: 1160 x 629
 published: true
 disclosure_text: >-
