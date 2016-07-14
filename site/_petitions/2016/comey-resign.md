@@ -18,7 +18,7 @@ twittertext: >-
 social_title: The director of the FBI is losing it
 social_description: >-
   The Director of the FBI is losing it. Tell him to resign:
-  https://www.fightforthefuture.org/2016/comey-resign/
+  https://www.fightforthefuture.org/2016/comey-resign/ foo:bar
 share_image_dims: 1160 x 629
 published: true
 disclosure_text: >-
@@ -29,10 +29,11 @@ autoresponder_active: false
 autoresponder_hours: 72
 autoresponder_subject: '{PETITION_TITLE} - help us reach the next level!'
 autoresponder_text: >-
-  Thanks again for taking action on {PETITION_TITLE}. We need more people like
+  Thanks again for taking action on {PETITION_TITLE}. We need more p: eople like
   you who can take action on this issue. Can you please share it to help us
   reach the next level?
 share_image: /img/action-network/comey1.jpeg
+baz: qup
 ---
 
 ![comey1.jpeg]({{site.baseurl}}/img/action-network/comey1.jpeg)
